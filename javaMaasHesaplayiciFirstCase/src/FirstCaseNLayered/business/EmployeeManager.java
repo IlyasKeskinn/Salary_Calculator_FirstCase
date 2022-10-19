@@ -5,7 +5,7 @@ import FirstCaseNLayered.entities.Employee;
 
 import java.util.Scanner;
 
-public class EmployeeManager extends Employee {
+public class EmployeeManager{
 
     private Employee employee;
 
